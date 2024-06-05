@@ -28,14 +28,14 @@ button{
     height: 100px;
     border-radius: 50px;
     border: none;
-    background-color: hsl(0, 0%, 30%);
+    background-color: green;
     color: white;
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
 }
 button:hover{
-    background-color:  hsl(0, 0%, 60%);;
+    background-color:purple;
 }
 .operator-button{
     background-color: #191a2b;
